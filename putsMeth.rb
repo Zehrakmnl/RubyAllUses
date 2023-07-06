@@ -1,4 +1,4 @@
-puts "I m a Iron Man" 
+puts "I m Iron Man" 
 
 def hi
     puts "Ross Geller"
